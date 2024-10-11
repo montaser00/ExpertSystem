@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpertSystem.Wealth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1e572bd6ee113a6d5c06411965d63ba1182986b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpertSystem.Wealth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpertSystem.Wealth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
